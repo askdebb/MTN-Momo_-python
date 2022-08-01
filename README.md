@@ -1,2 +1,2 @@
 # MTN-Momo_-python
-a Sample mimic of MTN MoMo Transaction
+a mimic of MTN GH MoMo Transaction
