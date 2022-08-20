@@ -16,6 +16,8 @@ def mtn_MOMO_Registered_user_pin(pin_number):
 def no_int_begins(registeredUser):
     splitter =[registeredUser]
     bugger = [char for char in splitter[0]]
+    bug = input(bugger[0])
+    
     size_splitter_carries = len(bugger)
     for i in range(size_splitter_carries):
         if bugger[0] == '0 - 9':

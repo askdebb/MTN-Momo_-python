@@ -15,6 +15,7 @@ else:
     new_applicant = mtn_MOMO_Registered_user(reguser)
 
 regUserPin = input("Enter your preferred 4 - digit pin: ")
+
 if regUserPin == ' ':
     print("The field is empty, retart the process again")
 else:    
